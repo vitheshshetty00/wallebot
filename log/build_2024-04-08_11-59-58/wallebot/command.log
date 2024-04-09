@@ -1,0 +1,2 @@
+Invoking command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot': /usr/bin/cmake /home/vithesh/dev_ws/src/ros2_ws/src/wallebot -DCMAKE_INSTALL_PREFIX=/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot
+Invoked command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot' returned '1': /usr/bin/cmake /home/vithesh/dev_ws/src/ros2_ws/src/wallebot -DCMAKE_INSTALL_PREFIX=/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot

@@ -1,0 +1,22 @@
+[0.012s] Invoking command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot': /usr/bin/cmake /home/vithesh/dev_ws/src/ros2_ws/src/wallebot -DCMAKE_INSTALL_PREFIX=/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot
+[0.027s] -- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.244s] [31mCMake Error at CMakeLists.txt:25 (find_package):
+[0.244s]   By not providing "Findament_lint_auto.cmake" in CMAKE_MODULE_PATH this
+[0.244s]   project has asked CMake to find a package configuration file provided by
+[0.244s]   "ament_lint_auto", but CMake did not find one.
+[0.244s] 
+[0.244s]   Could not find a package configuration file provided by "ament_lint_auto"
+[0.245s]   with any of the following names:
+[0.245s] 
+[0.245s]     ament_lint_autoConfig.cmake
+[0.245s]     ament_lint_auto-config.cmake
+[0.245s] 
+[0.245s]   Add the installation prefix of "ament_lint_auto" to CMAKE_PREFIX_PATH or
+[0.245s]   set "ament_lint_auto_DIR" to a directory containing one of the above files.
+[0.245s]   If "ament_lint_auto" provides a separate development package or SDK, be
+[0.245s]   sure it has been installed.
+[0.245s] 
+[0.245s] [0m
+[0.245s] -- Configuring incomplete, errors occurred!
+[0.246s] See also "/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot/CMakeFiles/CMakeOutput.log".
+[0.247s] Invoked command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot' returned '1': /usr/bin/cmake /home/vithesh/dev_ws/src/ros2_ws/src/wallebot -DCMAKE_INSTALL_PREFIX=/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot
