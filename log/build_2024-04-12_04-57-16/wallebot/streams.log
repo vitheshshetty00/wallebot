@@ -1,0 +1,33 @@
+[0.016s] Invoking command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot -- -j8 -l8
+[0.068s] Invoked command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot -- -j8 -l8
+[0.112s] Invoking command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot
+[0.123s] -- Install configuration: ""
+[0.124s] -- Execute custom install script
+[0.125s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/config/empty.yaml
+[0.125s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/config/mapper_params_online_async.yaml
+[0.125s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/config/view_bot.rviz
+[0.126s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/gazebo_control.xacro
+[0.126s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/inertial_macros.xacro
+[0.127s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/lidar.xacro
+[0.127s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/robot.urdf.xacro
+[0.127s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/robot_core.xacro
+[0.128s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/launch/launch_sim.launch.py
+[0.128s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/launch/rsp.launch.py
+[0.129s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/worlds/empty.world
+[0.129s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/worlds/obstacles
+[0.129s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/ament_index/resource_index/package_run_dependencies/wallebot
+[0.130s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/ament_index/resource_index/parent_prefix_path/wallebot
+[0.130s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/environment/ament_prefix_path.sh
+[0.131s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/environment/ament_prefix_path.dsv
+[0.131s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/environment/path.sh
+[0.131s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/environment/path.dsv
+[0.132s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/local_setup.bash
+[0.132s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/local_setup.sh
+[0.133s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/local_setup.zsh
+[0.133s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/local_setup.dsv
+[0.133s] -- Symlinking: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/package.dsv
+[0.147s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/ament_index/resource_index/packages/wallebot
+[0.147s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/cmake/wallebotConfig.cmake
+[0.147s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/cmake/wallebotConfig-version.cmake
+[0.148s] -- Up-to-date symlink: /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/package.xml
+[0.152s] Invoked command in '/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/build/wallebot

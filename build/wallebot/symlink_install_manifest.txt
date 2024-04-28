@@ -1,11 +1,15 @@
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/config/empty.yaml
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/config/mapper_params_online_async.yaml
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/config/view_bot.rviz
+/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/gazebo_control.xacro
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/inertial_macros.xacro
+/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/lidar.xacro
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/robot.urdf.xacro
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/description/robot_core.xacro
+/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/launch/launch_sim.launch.py
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/launch/rsp.launch.py
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/worlds/empty.world
+/home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/worlds/obstacles.world
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/ament_index/resource_index/package_run_dependencies/wallebot
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/ament_index/resource_index/parent_prefix_path/wallebot
 /home/vithesh/dev_ws/src/ros2_ws/src/wallebot/install/wallebot/share/wallebot/environment/ament_prefix_path.sh

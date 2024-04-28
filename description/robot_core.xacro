@@ -13,8 +13,23 @@
     <material name="black">
         <color rgba="0 0 0 1"/>
     </material>
+    <material name="red">
+        <color rgba="1 0 0 1"/>
+    </material>
 
     <link name="base_link">
+
+     <!-- BASE_FOOTPRINT LINK -->
+
+    <joint name="base_footprint_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="base_footprint"/>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+    </joint>
+
+    <link name="base_footprint">
+    </link>
+
 
     </link>
     <joint name="chassis_joint" type="fixed">
@@ -42,6 +57,11 @@
             <origin xyz="0.225 0.0 0.075" rpy="0 0 0"/>
         </xacro:inertial_box>
     </link>
+
+
+    <gazebo reference="chassis">
+        <material>Gazebo/White</material>
+    </gazebo>
 
     <joint name="front_left_wheel_joint" type="continuous">
         <parent link="base_link"/>
@@ -187,6 +207,30 @@
             <origin xyz="0 0 0" rpy="0 0 0"/>
         </xacro:inertial_cylinder>
     </link>
+
+    <gazebo reference="front_left_wheel">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+
+    <gazebo reference="back_left_wheel">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+
+    <gazebo reference="left_wheel">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+
+    <gazebo reference="front_right_wheel">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+
+    <gazebo reference="right_wheel">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+
+    <gazebo reference="back_right_wheel">
+        <material>Gazebo/Blue</material>
+    </gazebo>
 
     <!-- <joint name="caster_wheel_joint" type="fixed">
         <parent link="chassis"/>
